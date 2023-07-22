@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🚀 Passionate about the power of data and its potential to transform industries, I aspire to be a Data Science/Machine Learning Engineer. 📈🔍 Combining my love for problem-solving and curiosity for cutting-edge technologies, I am on a mission to harness the insights hidden within data to drive informed decision-making and innovation. 💡 Excited to be part of the ever-evolving data-driven landscape, I aim to create impactful solutions that make a difference in the world. 💻🌐
+🚀 Passionate about the power of data and its potential to transform industries, I aspire to be a Data Scientist/Machine Learning Engineer. 📈🔍 Combining my love for problem-solving and curiosity for cutting-edge technologies, I am on a mission to harness the insights hidden within data to drive informed decision-making and innovation. 💡 Excited to be part of the ever-evolving data-driven landscape, I aim to create impactful solutions that make a difference in the world. 💻🌐
 
 - 🔭 I’m currently pursuing MS in Data Analytics Engineering focusing on Machine Learning at Northeastern University 
 - 🌱 I’m currently learning NLP
