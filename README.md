@@ -1,12 +1,14 @@
-### Hi there 👋
+### What truly motivates me is the opportunity to apply cutting-edge tools and techniques to solve real-world challenges, develop predictive models, and craft compelling visualizations. I thrive in collaborative environments, valuing diverse perspectives and effective communication to ensure stakeholders can make informed decisions and passionate about leveraging the power of data to drive positive change.
 
-### Passionate about leveraging the power of data to drive positive change, I am a results-driven data scientist with a strong commitment to making a difference. With a Master of Science in Data Analytics Engineering focusing on Machine Learning from Northeastern University and expertise in programming languages like Python, SQL, and R, I possess the technical foundation to transform complex data into actionable insights. What truly motivates me is the opportunity to apply cutting-edge tools and techniques to solve real-world challenges, develop predictive models, and craft compelling visualizations. I thrive in collaborative environments, valuing diverse perspectives and effective communication to ensure stakeholders can make informed decisions. 
+### I am a results-driven data scientist with a strong commitment to making a difference. With a Master of Science in Data Analytics Engineering focusing on Machine Learning from Northeastern University and expertise in Python, SQL, R, Data Analysis and Data Visualization Tools such as Tableau and Power BI. I possess the technical foundation to transform complex data into actionable insights. 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=pavit14&label=Profile%20views&color=0e75b6&style=flat" alt="pavit14" /></p>
 
 # 📊 GitHub Stats:
-<p align="left"><img src="https://komarev.com/ghpvc/?username=pavit14&label=Profile%20views&color=0e75b6&style=flat" alt="pavit14" /></p>
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pavit14&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavit14&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 <!--
 
 
