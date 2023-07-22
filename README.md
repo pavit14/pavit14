@@ -1,13 +1,14 @@
 ### Hi there 👋
+
+### Passionate about leveraging the power of data to drive positive change, I am a results-driven data scientist with a strong commitment to making a difference. With a Master of Science in Data Analytics Engineering focusing on Machine Learning from Northeastern University and expertise in programming languages like Python, SQL, and R, I possess the technical foundation to transform complex data into actionable insights. What truly motivates me is the opportunity to apply cutting-edge tools and techniques to solve real-world challenges, develop predictive models, and craft compelling visualizations. I thrive in collaborative environments, valuing diverse perspectives and effective communication to ensure stakeholders can make informed decisions. 
+
 # 📊 GitHub Stats:
 <p align="left"><img src="https://komarev.com/ghpvc/?username=pavit14&label=Profile%20views&color=0e75b6&style=flat" alt="pavit14" /></p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pavit14&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavit14&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <!--
-### Being hit by a complex feeling of cognition accompanying the desire to explore and learn how much society can be impacted by the power of data truly shook into my shoes, and this paved the way for me to dive deep into the fantabulous field of Data Science. Since then deriving insights from data after skillfully analyzing them and making predictions out of it with Machine Learning Algorithms has become my dopamine!
 
-###  I am a self-motivated graduate candidate pursuing Master of Science majoring in Data Science, looking forward to exposing myself to large datasets and transforming them to create a social impact. I am proficient in Python, R, SQL, Data Analysis, and Data Visualization Tools such as Tableau and Power BI with Machine Learning and Natural Language Processing being my greatest passion!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharanya142000&label=Profile%20views&color=0e75b6&style=flat" alt="sharanya142000" /> </p>
 
