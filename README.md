@@ -1,17 +1,16 @@
-
-### 🚀 Passionate about the power of data and its potential to transform industries, I aspire to be a Data Science/Machine Learning Engineer. 
-📈🔍 Combining my love for problem-solving and curiosity for cutting-edge technologies, I am on a mission to harness the insights hidden within data to drive informed decision-making and innovation. 
-💡 Excited to be part of the ever-evolving data-driven landscape, I aim to create impactful solutions that make a difference in the world. 💻🌐
-
-### I am a results-driven data scientist with a strong commitment to making a difference. With a Master of Science in Data Analytics Engineering focusing on Machine Learning from Northeastern University and expertise in Python, SQL, R, Data Analysis and Data Visualization Tools such as Tableau and Power BI. I possess the technical foundation to transform complex data into actionable insights. 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=pavit14&label=Profile%20views&color=0e75b6&style=flat" alt="pavit14" /></p>
-
 # 💫 About Me:
+
+🚀 Passionate about the power of data and its potential to transform industries, I aspire to be a Data Science/Machine Learning Engineer. 📈🔍 Combining my love for problem-solving and curiosity for cutting-edge technologies, I am on a mission to harness the insights hidden within data to drive informed decision-making and innovation. 💡 Excited to be part of the ever-evolving data-driven landscape, I aim to create impactful solutions that make a difference in the world. 💻🌐
+
+I am a results-driven data scientist with a strong commitment to making a difference. With a Master of Science in Data Analytics Engineering focusing on Machine Learning from Northeastern University and expertise in Python, SQL, R, Data Analysis and Data Visualization Tools such as Tableau and Power BI. I possess the technical foundation to transform complex data into actionable insights. 
+
 - 🔭 I’m currently pursuing MS in Data Analytics Engineering focusing on Machine Learning at Northeastern University 
 - 🌱 I’m currently learning NLP
 - 📫 How to reach me: pavit.m14@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Looking for Fall'23/Spring'24 Co-op and May'24 full-time opportunities to unleash my knowledge in Data Science and Data Analytics
+
+  <p align="left"><img src="https://komarev.com/ghpvc/?username=pavit14&label=Profile%20views&color=0e75b6&style=flat" alt="pavit14" /></p>
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavithra--m/) 
