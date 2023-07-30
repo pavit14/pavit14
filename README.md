@@ -9,8 +9,8 @@
 * 😄 Pronouns: She/Her
 * 🔬 Proficient Skills: Python, SQL, Tableau, Power BI
 * ⚡ Career Goals:
-** Seeking Fall'23/Spring'24 Co-op opportunities to apply my knowledge in Data Science and Data Analytics.
-** Planning to embark on a full-time position in May'24 to contribute to impactful solutions in the data-driven domain.
+   Seeking Fall'23/Spring'24 Co-op opportunities to apply my knowledge in Data Science and Data Analytics.
+   Planning to embark on a full-time position in May'24 to contribute to impactful solutions in the data-driven domain.
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=pavit14&label=Profile%20views&color=0e75b6&style=flat" alt="pavit14" /></p>
   
