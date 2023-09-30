@@ -4,7 +4,7 @@
 
 
 * 📚 Education: Currently pursuing MS in Data Analytics Engineering with a focus on Machine Learning at Northeastern University.
-* 🌱 What I'm Up To: Currently diving deep into Natural Language Processing (NLP) to explore the fascinating world of text analytics.
+* 🌱 What I'm Up To: Currently diving deep into MLOps to explore the building and deployement of end to end Machine Learning pipelines.
 * 📫 How to reach me: pavit.m14@gmail.com
 * 😄 Pronouns: She/Her
 * 🔬 Proficient Skills: Python, SQL, Tableau, Power BI
