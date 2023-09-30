@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 👩‍💻 Welcome to my GitHub profile! I'm Pavithra. 🚀Passionate about the power of data and its potential to transform industries, I aspire to be a Data Scientist/Machine Learning Engineer. 📈🔍 Combining my love for problem-solving and curiosity for cutting-edge technologies, I am on a mission to harness the insights hidden within data to drive informed decision-making and innovation. 💡 Excited to be part of the ever-evolving data-driven landscape, I aim to create impactful solutions that make a difference in the world. 💻🌐
 
@@ -8,7 +8,7 @@
 * 📫 How to reach me: pavit.m14@gmail.com
 * 😄 Pronouns: She/Her
 * 🔬 Proficient Skills: Python, SQL, Tableau, Power BI
-* ⚡ Career Goals: Seeking Fall'23/Spring'24 Co-op opportunities and a full-time position in May'24 
+* ⚡ Career Goals: Seeking Spring'24 Co-op opportunities and a full-time position in May'24 
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=pavit14&label=Profile%20views&color=0e75b6&style=flat" alt="pavit14" /></p>
   
