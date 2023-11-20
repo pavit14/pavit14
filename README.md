@@ -8,7 +8,9 @@
 * 📫 How to reach me: pavit.m14@gmail.com
 * 😄 Pronouns: She/Her
 * 🔬 Proficient Skills: Python, SQL, Tableau, Power BI
-* ⚡ Career Goals: Seeking Spring'24 Co-op opportunities and a full-time position in May'24 
+* ⚡ Career Goals: Seeking Spring'24 Co-op opportunities and a full-time position in May'24
+  
+Portfolio: https://pavit14.github.io/portfolio.github.io/
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=pavit14&label=Profile%20views&color=0e75b6&style=flat" alt="pavit14" /></p>
   
