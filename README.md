@@ -7,8 +7,8 @@
 * 🌱 What I'm Up To: Currently diving deep into MLOps to explore the building and deployement of end to end Machine Learning pipelines.
 * 📫 How to reach me: pavit.m14@gmail.com
 * 😄 Pronouns: She/Her
-* 🔬 Proficient Skills: Python, SQL, Tableau, Power BI 
-* ⚡ Career Goals: Seeking full-time position in Dec'24
+* 🔬 Proficient Skills: Python, SQL, Tableau, Power BI, Data Engineering, Data Science 
+* ⚡ Career Goals: Seeking full-time position from Dec'24
   
 Portfolio: https://pavit14.github.io/portfolio.github.io/
 
